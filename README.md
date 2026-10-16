@@ -1,8 +1,8 @@
 ﻿# Guía de Git y GitHub
 
-Apuntes con los comandos de Git y GitHub que vimos en el taller. Los armamos entre dos para practicar el trabajo con ramas, pull requests y revisiones.
+Apuntes informativos sobre Git y GitHub, incluido los comandos básicos de la herramienta. Resumen dinámico de los módulos vistos en el taller de Git/GitHub.
 
-## Cómo usarlo
+## ¿Cómo usarlo?
 
 Clonás el repo y leés los apuntes:
 
@@ -10,12 +10,30 @@ Clonás el repo y leés los apuntes:
 git clone https://github.com/Finsvick/tp1-TallerGit.git
 ```
 
-## Dónde está cada cosa
+## Dónde encontrar cada guía
 
-- `ramas.md`: crear, cambiar y juntar ramas.
-- `commits.md`: guardar cambios y escribir mensajes.
-- `pull-requests.md`: abrir y revisar pull requests.
+- `fundamentos-git.md`:
+    - ¿qué es git?
+    - repositorios
+    - crear y clonar repositorios
+    - preparar archivos
+    - estado de los archivos
+- `ramas.md`: 
+    - ¿qué es una rama?
+    - crear ramas
+    - cambiar ramas
+    - integrar ramas
+    - comandos extras
+- `colaborar-en-proyectos.md`:
+    - flujo de trabajo
+    - ¿qué es un fork y para que sirve?
+    - pull-request
+    - issues
+    - comentarios
+- `indice.md`: índice de comandos 
+- `links-utiles.md`: consulta más información de Git y GitHub
+- `git-bash.md`: información sobre Git Bash
 
-## Cómo participar
+## ¿Cómo participar?
 
 Antes de hacer cambios mirá `CONTRIBUTING.md`.
